@@ -2,5 +2,5 @@
 
 ## build
 #### master
-[![Build Status](https://travis-ci.org/sailengsi/sls-admin.svg?branch=master)](https://travis-ci.org/sailengsi/sls-admin)
+[![Build Status](https://travis-ci.org/sailengsi/sls-admin-quick-start.svg?branch=master)](https://travis-ci.org/sailengsi/sls-admin-quick-start)
 
